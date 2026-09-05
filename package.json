@@ -1,0 +1,10 @@
+{
+  "name": "zealan-fashion-bliz",
+  "version": "1.0.0",
+  "description": "Web app for Zealan Fashion Bliz running on Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {}
+}
